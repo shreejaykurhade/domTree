@@ -52,8 +52,7 @@ dom-tree-extension/
 - Chrome Extension APIs (`scripting`, `contextMenus`, `action`)
 
 ## 📸 Preview
-
-![DOM Tree Viewer Screenshot](![image](https://github.com/user-attachments/assets/ecd45f3f-a24e-447b-a3b8-c30a9fffa4b3)
+(![image](https://github.com/user-attachments/assets/ecd45f3f-a24e-447b-a3b8-c30a9fffa4b3)
 
 
 ## 📃 License
