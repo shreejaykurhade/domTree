@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "DOM Tree Viewer",
+  "description": "View the DOM tree of any webpage",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab", "contextMenus"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

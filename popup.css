@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  max-width: 400px;
+  max-height: 500px;
+  overflow-y: auto;
+  background-color: #f5f5f5;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.node {
+  margin-left: 15px;
+  padding-left: 10px;
+  border-left: 1px dashed #aaa;
+}
+
+.tag {
+  color: #333;
+  font-weight: bold;
+}
