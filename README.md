@@ -80,7 +80,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT License © 2025
 
-Made with ❤️ by [Your Name](https://github.com/shreejaykurhade)
+Made with ❤️ by [Shreejay Kurhade](https://github.com/shreejaykurhade)
 
 ---
 
