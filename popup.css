@@ -1,45 +1,60 @@
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding: 10px;
+  font-family: 'Segoe UI', sans-serif;
   margin: 0;
+  padding: 10px;
   width: 400px;
   height: 600px;
-  box-sizing: border-box;
+  background: #ffffff;
   overflow: hidden;
-  background-color: #fdfdfd;
-  color: #333;
+  box-sizing: border-box;
 }
 
 h2 {
   font-size: 16px;
-  margin: 0 0 10px 0;
-  padding: 0;
+  margin: 0 0 10px;
   border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
 }
 
 #treeContainer {
-  max-height: 540px;
+  max-height: 560px;
   overflow-y: auto;
-  overflow-x: auto;
-  padding-right: 10px;
-  border-left: 2px solid #ccc;
+  padding-left: 5px;
+  font-size: 13px;
 }
 
 .node {
-  margin-left: 15px;
-  padding-left: 10px;
-  border-left: 1px dashed #ccc;
-  white-space: normal;
-  word-break: break-word;
-  margin-bottom: 4px;
+  margin-left: 14px;
+  position: relative;
+}
+
+.node-header {
+  display: flex;
+  align-items: center;
+  cursor: default;
+  padding: 2px 0;
+}
+
+.toggle {
+  width: 12px;
+  display: inline-block;
+  margin-right: 4px;
+  color: #555;
+  user-select: none;
 }
 
 .tag {
-  color: #008080;
-  font-weight: 500;
-  font-family: monospace;
-  background-color: #f0f0f0;
-  padding: 2px 4px;
+  background: #eef;
+  color: #004;
+  padding: 2px 5px;
   border-radius: 4px;
-  display: inline-block;
+  font-family: monospace;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.children {
+  margin-left: 12px;
+  border-left: 1px dashed #ddd;
+  padding-left: 6px;
 }
