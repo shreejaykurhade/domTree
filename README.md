@@ -53,7 +53,7 @@ dom-tree-extension/
 
 ## 📸 Preview
 
-![DOM Tree Viewer Screenshot](![image](https://github.com/user-attachments/assets/fc2c4abf-c6a1-4b5a-83a4-b0ec4eef87f7)
+![DOM Tree Viewer Screenshot](![image]https://github.com/user-attachments/assets/fc2c4abf-c6a1-4b5a-83a4-b0ec4eef87f7
 )
 
 ## 📃 License
