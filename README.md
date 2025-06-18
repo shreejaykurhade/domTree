@@ -56,26 +56,6 @@ dom-tree-extension/
 ![DOM Tree Viewer Screenshot](![image](https://github.com/user-attachments/assets/fc2c4abf-c6a1-4b5a-83a4-b0ec4eef87f7)
 )
 
-*Screenshot showing the DOM tree structure in action*
-
-## 🔧 Future Enhancements
-
-- [ ] Show tag `id`, `class`, and text content
-- [ ] Add search/filter bar for elements
-- [ ] Support dark mode toggle
-- [ ] Element highlighting on hover
-- [ ] Export DOM structure as JSON/XML
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📃 License
 
 MIT License © 2025
