@@ -1,5 +1,5 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 10px;
   width: 400px;
@@ -7,10 +7,12 @@ body {
   background: #ffffff;
   overflow: hidden;
   box-sizing: border-box;
+  color: #222;
 }
 
 h2 {
   font-size: 16px;
+  font-weight: 600;
   margin: 0 0 10px;
   border-bottom: 1px solid #ddd;
   padding-bottom: 4px;
@@ -21,6 +23,7 @@ h2 {
   overflow-y: auto;
   padding-left: 5px;
   font-size: 13px;
+  padding-bottom: 20px;
 }
 
 .node {
@@ -39,16 +42,17 @@ h2 {
   width: 12px;
   display: inline-block;
   margin-right: 4px;
-  color: #555;
+  color: #666;
   user-select: none;
 }
 
 .tag {
   background: #eef;
   color: #004;
-  padding: 2px 5px;
+  padding: 2px 6px;
   border-radius: 4px;
-  font-family: monospace;
+  font-family: 'Fira Code', monospace;
+  font-size: 13px;
   user-select: none;
   white-space: nowrap;
 }
